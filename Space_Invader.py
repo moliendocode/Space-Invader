@@ -178,3 +178,4 @@ while running:
     show_score(textX,textY)
     # Refresh
     pygame.display.update()
+    
